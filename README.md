@@ -9,7 +9,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Lucas Andrade Feres
 * Brayan Mendes de Carvalho
 * Fabiano Queiroz Guimães Almeida
-* Jão Grabriel Dias
+* João  Gabriel Dias
 
 ## Professores responsáveis
 
