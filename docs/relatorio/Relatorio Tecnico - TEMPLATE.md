@@ -149,7 +149,8 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente Figma do projeto. (link Figma: https://www.figma.com/file/710vYjBs92LW2KNOvmDzvk/Falta-de-Educa%C3%A7%C3%A3o-Financeira-no-Brasil-team-library?node-id=465%3A53)
 
-![image](https://user-images.githubusercontent.com/103436793/163736442-951ee018-01cb-4d15-a03a-7852b915a89e.png)
+![image](https://user-images.githubusercontent.com/103436793/163738327-88e6f2f5-fbf1-467e-95ad-6772586e4222.png)
+
 Figura 1 - Fluxo de telas do usuário.
 
 ## Wireframes
@@ -160,36 +161,42 @@ Cabeçalho - local onde estão a logo e navegação principal do site;
 Conteúdo - apresenta o conteúdo da tela em questão;
 
 ![image](https://user-images.githubusercontent.com/103436793/163736470-f22868d2-03f1-4a2e-bcf0-7f151716a1a9.png)
+
 Figura 2 - Estrutura padrão do site.
 
 Tela - Login
 A tela de login é onde o usuário se conecta ao seu perfil, para isso, precisa informar o seu login e a sua senha.
 
 ![image](https://user-images.githubusercontent.com/103436793/163736492-0f9a18d6-5dde-44e7-9aae-a1ad062b7375.png)
+
 Figura 3 - Login.
 
 Tela - Página Inicial
 Na página inicial é onde o usuário vê as principais informações de suas transações e de investimentos.
 
 ![image](https://user-images.githubusercontent.com/103436793/163736512-e918e85d-0a66-403c-83f7-057f824fd0e7.png)
+
 Figura 4 - Página Inicial.
 
 Tela - Carteira Virtual
 Na carteira virtual será possível ver e adicionar algumas informações financeiras, colocando alguns bancos e retornando o saldo total, por exemplo.
 
 ![image](https://user-images.githubusercontent.com/103436793/163736534-5ba4a3d3-65d1-4eac-b490-0628dc763606.png)
+
 Figura 5 - Carteira Virtual.
 
 Tela - Notícias
 Nesta tela, aparecem as notícias principais do dia para o mundo econômica/financeiro.
 
 ![image](https://user-images.githubusercontent.com/103436793/163736603-025f378d-a0f2-45bf-a57b-e12caa450fcd.png)
+
 Figura 6 - Notícias.
 
 Tela - Perfil do Usuário
 É onde o usuário encontra e adiciona as suas informações básicas.
 
 ![image](https://user-images.githubusercontent.com/103436793/163736625-b6acf047-f9d9-4ffc-aed3-4f55d7e9ecae.png)
+
 Figura 7- Perfil.
 
 # Metodologia
