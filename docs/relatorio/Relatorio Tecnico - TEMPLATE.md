@@ -9,13 +9,12 @@ Ciências da Computação
 
 ## Participantes
 
-Socorro - Brainwriting
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+- Caio Ronan Horta
+- Eishila Beatriz dos Santos
+- Lucas Andrade Feres
+- Brayan Mendes de carvalho
+- Fabiano Queiroz Guimarães Almeida
+- João Gabriel Dias
 
 # Estrutura do Documento
 
